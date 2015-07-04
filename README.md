@@ -39,4 +39,4 @@ Ran this on Mac Pro, 2.2 GHz Intel Core i7, 16 GB 1600 MHz DDR3.
 |mori-built-in100000 | 299.2   |   84.8     |
 
 ### *Disclaimer
-![Me at this moment](sudodoki.github.io/sudodoki-public-assets/random/idontknowwhatiamdoing.jpg)
+![Me at this moment](http://sudodoki.github.io/sudodoki-public-assets/random/idontknowwhatiamdoing.jpg)
