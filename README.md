@@ -5,7 +5,7 @@ Something to prove @marshall-lee point regarding sortings & inline/imperative vs
 Source is [this Excel file](Evaluation_length.xls).  
 Ran this on Mac Pro, 2.2 GHz Intel Core i7, 16 GB 1600 MHz DDR3.
 
-|Name                |IO 2.3.1 | Node 0.12.2|
+|Name                |IO 2.3.1, ms | Node 0.12.2, ms|
 |:-------------------|--------:|-----------:|
 |builtin10           | 1       |   1        |
 |inline10            | 0       |   0        |
