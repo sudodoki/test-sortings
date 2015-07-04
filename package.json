@@ -1,0 +1,20 @@
+{
+  "name": "test-immutable-quicksort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "sudodoki <smd.deluzion@gmail.com> (sudodoki.name)",
+  "license": "MIT",
+  "dependencies": {
+    "mori": "^0.3.2",
+    "unique-random": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.0",
+    "mocha": "^2.2.5"
+  }
+}
